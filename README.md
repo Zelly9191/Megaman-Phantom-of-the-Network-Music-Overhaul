@@ -64,6 +64,7 @@ BGM Track List and the Replacements:
 Alternative audio files
 
 1Alt. "Mega Man Battle Network 2 - Control the Battle ~ Virus Busting (Remix)" By Hooded Edge. Used with permission. https://www.youtube.com/watch?v=u6hGJSujW10
+
 4Alt. "Phantom of Network - Cyberworld (Evellium Remix)" By Evellium (Eve5220) (Commissioned for the mod) https://www.youtube.com/watch?v=OazZakW2tt4 https://on.soundcloud.com/OQFsAcOPunHnQNGX97
 
 To use the alternative audio files, simply rename the alternative audio file you want to use and replace the default remix #.ogg file.
