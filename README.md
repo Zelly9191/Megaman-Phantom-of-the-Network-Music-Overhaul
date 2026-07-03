@@ -71,7 +71,6 @@ To use the alternative audio files, simply rename the alternative audio file you
 
 Here is the link to download the mod.
 
-DOWNLOAD
+https://github.com/Zelly9191/Megaman-Phantom-of-the-Network-Music-and-Sound-Overhaul/releases
 
-
-Megaman Phantom of the Network Music Overhaul © 2026 by Zelly_9191, Mist the Sound Ninja, Hooded Edge, Korshal Valent, WDecently, & Evellium is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+Megaman Phantom of the Network Music and Sound Overhaul © 2026 by Zelly_9191, Mist the Sound Ninja, Hooded Edge, Korshal Valent, WDecently, & Evellium is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/ 
